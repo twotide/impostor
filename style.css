@@ -1,0 +1,67 @@
+@font-face {
+    font-family: "mont";
+    src: url(Mont-HeavyDEMO.otf);
+}
+
+body {background-color: rgb(43, 57, 82);}
+
+.title
+{
+    text-align: center;
+    font-family: "mont";
+    font-size: 5em;
+    color:rgb(225, 231, 240);
+    padding:0px;
+    margin:0px;
+}
+
+.wordText
+{
+    text-align: center;
+    font-family: "mont";
+    font-size: 7em;
+    color:rgb(225, 231, 240);
+    padding:0px;
+    margin:0px;
+}
+
+h1
+{
+    text-align: center;
+    font-family: "mont";
+    font-size: 4em;
+    color:rgb(193, 202, 212);
+    padding:0px;
+    margin:0px;
+}
+
+.input
+{
+    text-align: center;
+    font-family: "mont";
+    font-size: 4em;
+    background-color: rgb(62, 74, 97);
+    border: none;
+    outline: none;
+    width:10em;
+    color: white;
+
+    padding:10px;
+    margin:0px;
+
+    caret-color: white;
+}
+
+.button1
+{
+    text-align: center;
+    font-family: "mont";
+    font-size: 4em;
+    color:rgb(217, 225, 235);
+    background-color: rgb(62, 74, 97);
+    outline:none;
+    border:none;
+
+    padding: 10px;
+    margin: 20px;
+}
